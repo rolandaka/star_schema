@@ -5,7 +5,7 @@ A star schema built from a flat e-commerce orders dataset, with scripts to creat
 ## Dataset
 random data set from kaggle.
 ## Grain
-One row in `fact_order_items` = **one product on one order**.
+One row in `order_details` = **one product on one order**.
 
 ## Tables
 
