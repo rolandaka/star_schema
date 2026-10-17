@@ -18,6 +18,7 @@ One row in `order_details` = **one product on one order**.
 | `sales` | Dimension | Sale ID, product ID, price |
 
 ![Schema diagram](star_schema)
+![Explain the above query](explain_plan_product_revenue)
 
 ## How to run
 
